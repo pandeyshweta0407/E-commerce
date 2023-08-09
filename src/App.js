@@ -11,7 +11,7 @@ import ProductDetailPage from './pages/ProductDetailPage';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/E-commerce",
     element: ( <Home></Home> ),
   },
   {
